@@ -1,0 +1,10 @@
+AWS Lambda
+	- we can't deploy application we can execute background task
+	- we don't have to configure 
+	- it is server less compute sevice we just have to upload code
+Elastic Beanstalk (PAAS)
+	- used to deploy appplication
+	- here User just have to manage (App,Data)
+	- rest cloud manages (Runtime,Middleware,OS,Virtualization,Servers
+	Storage,Networking)
+	- Quick Deploy, Simple Operations, Cost Effective, Better User Exp
